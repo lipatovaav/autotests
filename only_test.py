@@ -1,6 +1,3 @@
-# простите за код, я не умею этого делать, но если дают задние, значит надо делать. Как-то, но работает:)
-
-
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
